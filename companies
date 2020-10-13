@@ -1,16 +1,16 @@
 {
-  "companies": {
-    "metropolitano": {
+  "companies": [
+    {
       "id": 1,
       "nombre": "Parque Metropolitano",
       "logo": "https://www.parquemetroleon.com/images/logo-cmyk2-1%20copia165x76.png",
       "url": "https://www.miparquemetroleon.com"
     },
-    "sixflags": {
+    {
       "id": 2,
       "nombre": "Six Flags Mexico",
       "logo": "https://www.sixflags.com.mx/sites/default/files/default-sf-logo_0.png",
       "url": "https://sixflags.com/es/mexico/reserve"
     }
-  }
+  ]
 }
